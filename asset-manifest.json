@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food_Delivery_WebApp/static/css/main.ce2d3c46.css",
+    "main.js": "/Food_Delivery_WebApp/static/js/main.8355bd00.js",
+    "static/media/product4.jpg": "/Food_Delivery_WebApp/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/product1.jpg": "/Food_Delivery_WebApp/static/media/product1.8d05cbf9e77184b549db.jpg",
+    "static/media/portfolio.jpg": "/Food_Delivery_WebApp/static/media/portfolio.37317f30bbee54e203b3.jpg",
+    "static/media/product3.jpg": "/Food_Delivery_WebApp/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/Food_Delivery_WebApp/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/avatar2.jpg": "/Food_Delivery_WebApp/static/media/avatar2.feee5df798642a0d41ad.jpg",
+    "static/media/FoodAddict.png": "/Food_Delivery_WebApp/static/media/FoodAddict.b9d3ce038fac5804db86.png",
+    "static/media/FAlogo.png": "/Food_Delivery_WebApp/static/media/FAlogo.4a1a3e2856d8d04f050a.png",
+    "static/media/Welcome.jpeg": "/Food_Delivery_WebApp/static/media/Welcome.86abd6ef6ef4494f7552.jpeg",
+    "static/media/avatar1.jpg": "/Food_Delivery_WebApp/static/media/avatar1.c19a1a72f276b39b182a.jpg",
+    "index.html": "/Food_Delivery_WebApp/index.html",
+    "main.ce2d3c46.css.map": "/Food_Delivery_WebApp/static/css/main.ce2d3c46.css.map",
+    "main.8355bd00.js.map": "/Food_Delivery_WebApp/static/js/main.8355bd00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2d3c46.css",
+    "static/js/main.8355bd00.js"
+  ]
+}
