@@ -41,9 +41,9 @@ const Section = styled.section`
       margin-top: 0.5rem;
       margin-bottom:0;
       height: 52px;
-      width: 100px;
+      width: 50px;
       margin-left:0;
-      margin-right:200px;
+      margin-right:100px;
       cursor: pointer;
     }
     .toggle {
@@ -53,10 +53,11 @@ const Section = styled.section`
   .links {
     display: flex;
     list-style-type: none;
-    gap: 2rem;
+    gap: 5rem;
     cursor: pointer;
     li {
-        margin-left: 400px;
+        margin-right:1rem;
+        margin-left: 200px;
         color: #fc4958;
         font-weight: 600;
         text-decoration: none;
@@ -86,7 +87,29 @@ const Section = styled.section`
       }
     }
     .links {
-      display: none;
+      display: flex;
+      list-style-type: none;
+    gap: 2rem;
+    cursor: pointer;
+    li {
+      margin-right:6rem;
+      margin-left: 20px;
+      color: #fc4958;
+      font-weight: 600;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 0.2rem;
+      transition: 0.3s ease-in-out;
+      &:hover {
+        color: #f9c74f;
+      item-number {
+              color: red;
+        }
+    }
+    .active {
+      color: #f9c74f;
+    }
+  }
     }
   }
 `;

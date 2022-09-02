@@ -9,11 +9,11 @@ export default function Products({handleClick}) {
 
   return (
     <Section id="products">
-      <div className="title">
+      {/* <div className="title">
         <h1>
           <span>Order</span> Now
         </h1>
-      </div>
+      </div> */}
       <div className="products">
         {List.map((product) => {
           return (

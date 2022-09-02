@@ -20,7 +20,7 @@ export default function Testimonials() {
             </div>
             <p>
               Food is tasty. <span>Quick Delivery</span>{" "}
-              Highly Satishfied
+              Highly Satisfied
             </p>
           </div>
           <div className="testimonial">
@@ -29,7 +29,7 @@ export default function Testimonials() {
             </div>
             <p>
             Food is tasty. <span>Quick Delivery</span>{" "}
-              Highly Satishfied
+              Highly Satisfied
             </p>
           </div>
           <div className="testimonial">
@@ -38,7 +38,7 @@ export default function Testimonials() {
             </div>
             <p>
             Delicious, <span>Quick Delivery</span>{" "}
-              Highly Satishfied
+              Highly Satisfied
             </p>
           </div>
         </div>
